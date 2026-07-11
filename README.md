@@ -1,4 +1,4 @@
-# 🚕Ola Ride Cancellation Analysis-PowerBI
+# 🚕 Ola Ride Operations & Cancellation Analytics
 
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiNDRhODNhZTktMGEyYS00NzZiLWE2OGEtMGY3Mjc0OThiMjc4IiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9)
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.datascienceportfol.io/mohan_Srinivas)
@@ -24,7 +24,7 @@ Ola, a leader in the ride-hailing industry, generates extensive data on ride per
 - **Customer Insight:** Assess customer satisfaction through ratings and feedback to identify areas for service improvement.
 
 ## Methodology
-- **Data Collection:** Rides data was generated from chatgpt using a prompt. It details such as date, booking ID, status, vehicle type, pickup/drop locations, price, and customer ratings.
+- **Data Collection:** Synthetic dataset simulating real-world ride-hailing operations.
 - **Data Cleaning & Transformation:** The collected data underwent cleaning to handle missing values and inconsistencies. Transformation processes were applied to structure the data appropriately for analysis.
 - **Dashboard Development:** Using Power BI, an interactive dashboard was created, incorporating time-series, categorical, and distribution-based visualizations.
 
